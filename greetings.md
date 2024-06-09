@@ -5,7 +5,7 @@ just some greetings that you can copy and paste.
  
 # ↳ ❝ copy and paste ¡! ❞
 
-Hello! Welcome to (cafe), my name is (name). What can I do for you today?
+Hello! Welcome to (Kanji's), my name is (Yanni). What can I do for you today?
 
 Salutations! Welcome to (cafe). What would you like to drink/eat today?
 
